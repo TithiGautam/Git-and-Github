@@ -1,0 +1,14 @@
+Git workflow:
+ It is a set of steps which every developers needs to do to manage and track any changes
+ effectively using git.It involves three main component as working directory,staging area,repository.
+
+Working directory: this is the local file sysytem,where you create ,edit,the local files,when you initiates
+  a git respository in directory it becomes a working directory.
+
+staging area: the area between the working directory and repository is the staging area,
+  it acts a holding area to make any changes in the file before commiting it.
+
+Repository : Repository or git repository is where git permanently store all the changes commited to it
+it contain all the snapshop of our project,it conatain complete history of changes , branches,tags
+and all related data.
+

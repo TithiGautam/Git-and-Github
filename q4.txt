@@ -1,0 +1,20 @@
+Github is a cloud based hosting service that help developers to store and manage their code and keep 
+track of changes made over time.It also provide number of feature that make it easy for team to
+collaborte on software project.
+
+Github facilitates collaboration and version control in following ways:
+
+1 Version control:Github uses git for distributed version control sysytem that allows developers 
+keep track of changes made in code,and checks who made what changes.
+
+2.Branches and pull request : github makes it easy for developers to create branches of their
+main codebase and work on new feature or fix bugs,and after that ones a developer is ready to 
+merge changes in main database sents thepull request this allows developers to review the changes
+and provide a feedback before they are merged.
+
+some of the platforms that provide same facilities as github are:
+
+1 Gitlab
+2 BitBucket
+3 Source Forge
+4 Launchpad

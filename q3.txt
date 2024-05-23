@@ -1,0 +1,5 @@
+.gitignore file : .gitignore file tells the git to ignore such files and folders are included in it
+it is usually placed in the root directory,it ignore all files that are listed in it.
+ it is important in version control because they help to keep a clean code and also 
+ stops developers to commit any unnecessary files into the repository such as log files and 
+ configuration files and IDE files. 

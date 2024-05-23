@@ -1,0 +1,23 @@
+Contribution on any open source project:
+
+1.Find the project that align with your skills and you are intersted in,that you would like to contribute
+your changes.
+2. Read the guildlines before making Contribution to any project some project have a guildlines
+for what kind of contribution are welcome and how to format your code and submit code.
+
+3.Create a fork of project which is copy of project so that whatever the changes that we will
+make will nit directly affect the main codebase,for this we have to click the fork button on page.
+
+4.ones the project is forked we need to clone this project to our local computer,this will create a
+copy of project on our local hard drive.
+
+5.Make the changes that we want to contribute to the project by following the project's guidlines.
+
+6.commit changes to local repository this will create the snapshot of our project at that time.
+
+7.Push the changes to the fork this will make available our changes available to other developers.
+
+8.Create a pull request: it is a wat of request that to merge our change to maincodebase.
+
+9.wait for the request to be reviewed :other developer will review the changes and give feedback 
+once the changes are approved they will be merged to the maincodebase.

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body class="h-screen flex">
+    <!-- side bar -->
+    <div class="bg-gray-800 text-white w-64 flex-shrink-0">
+        <div class="p-4">
+            <h1 class="text-xl font-bold">Slack Clone</h1>
+        </div>
+        <div class="p-4">
+            <h2 class="text-lg font-semibold mb-4">Channels</h2>
+            <ul>
+                <li><a href="#" class="block py-2 px-4 rounded hover:bg-gray-700"># general</a></li>
+                <li><a href="#" class="block py-2 px-4 rounded hover:bg-gray-700"># random</a></li>
+                <li><a href="#" class="block py-2 px-4 rounded hover:bg-gray-700"># development</a></li>
+            </ul>
+        </div>
+    </div>
+    <!-- main chat area -->
+    <div class="flex-grow flex flex-col">
+        <!-- header -->
+        <header class="bg-white shadow-md p-4 flex items-center justify-between">
+            <h2 class="text-xl font-bold"># general</h2>
+            <div class="flex items-center space-x-4">
+                <button class="bg-blue-500 text-white px-4 py-2 rounded">Invite</button>
+                <input type="text" placeholder="Search" class="border rounded px-4 py-2">
+            </div>
+        </header>
+        <!-- Messages -->
+        <div class="flex-grow p-4 overflow-auto bg-gray-100">
+            <div class="space-y-4">
+                <div class="flex items-start space-x-4">
+                    <img src="https://via.placeholder.com/40" alt="user Avatar" class="w-10 h-10 rounde-full">
+                    <div>
+                        <div class="flex items-center space-x-2">
+                            <h4 class="font-bold">john Doe</h4>
+                            <span class="text-sm text-gray-600">12:34 PM</span>
+                        </div>
+                        <p class="text-gray-800">This is a simple message in the general channel.</p>
+                    </div>
+            </div>
+        </div>
+        <!-- Message input -->
+        <footer class="bg-white p-4">
+            <div class="flex items-center space-x-4">
+                <input type="text" placeholder="type a message" class="flex-grow border rounde px-4 py-2">
+                <button class="bg-blue-500 text-white px-4 py-2 rounde">Send</button>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>

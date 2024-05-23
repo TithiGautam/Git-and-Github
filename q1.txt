@@ -1,0 +1,11 @@
+Version Control System :
+
+Version Control software keeps track of the code ,it tracks all the changes that has been 
+done in code over the time,it is used to maintain the cide history.
+
+Importance in software development:
+
+1.It encourage the collaboration:allow multiple developers to work on same codebase.
+2.Maintain a history of changes:allows developers to see what changes who changes and when.
+3.Protect against data loss:provide access to previous version of project,so developers can 
+roll back if they make any mistake or undo specific edits.etc.
